@@ -1,15 +1,16 @@
 ul {
     list-style: none;
     width: 75vw;
-
-    /* add solution here */
+    display: flex;
+    flex-direction: row;
 }
 
 li {
     padding: 10px;
     margin: 10px;
     background-color: rgb(245, 173, 41);
-
+    height: 250px;
+    width: 250px;
     /* add solution here.. */
 
 }
